@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/nhbi05/django_repo.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
